@@ -4,8 +4,8 @@
 ## About Me
 
 - 👋 Hi, I’m @SofiaValan
-- 🖥️ I have been working as a Data Analyst for the last five years.
-- 🌱 I’m currently learning Machine Learning models to switch to Data Science.
+- 🖥️ I have been working as a Data Scientist for the last five years.
+- 🌱 I’m currently learning AI to switch to AI engineering.
 - 💞️ I love to find new ways to automate my tasks with coding.
 - 📫 You can reach me out:
 
